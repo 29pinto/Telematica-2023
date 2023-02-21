@@ -1,0 +1,9 @@
+***** git commands****
+1- git init -- Inicializar un proyecto con Git
+2-git config -- comando para configurar datos de usuario
+        git config --global  user.name  "Yamile"
+        git confi --global user.email  "norida2910p@gmail.com"
+3- git status  -- Estado de mis archivos
+4- git add . --comando para agregar archivos al Staging-Area 
+5- git commit -m "message"
+
